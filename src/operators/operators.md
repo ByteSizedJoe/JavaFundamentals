@@ -1,7 +1,7 @@
-## Operators
+# Operators
 Java supports a vast set of operators which help support operations such as arithmetic operations, logical operations, unary operations, assignment operations, bitwise operations,
 
-### Arithmetic Operators
+## Arithmetic Operators
 Used for mathematical operations:
 - '+' addition
 - '-' subtraction
@@ -9,7 +9,7 @@ Used for mathematical operations:
 - '/' division
 - '%' modulus/remainder
 
-### Bitwise Operators
+## Bitwise Operators
 Used for performing bitwise operations
 - '&' bitwise AND (ex: 1010 & 0110 = 0010)
 - '|' bitwise OR (ex: 1010 | 0110 = 1110)
@@ -18,7 +18,7 @@ Used for performing bitwise operations
 - '<<' bitwise left shift (shift bits to left n bits and fills vacant bits with 0s)
 - '>>>' bitwise unsigned right shift (shift bits to right n bits and fills vacant bits with 0s)
 
-### Assignment Operators
+## Assignment Operators
 Used for assigning values to variables
 - '=' assignment 
 - '+=' add and assign
@@ -33,11 +33,11 @@ Used for assigning values to variables
 - '<<=' bitwise left shift and assign
 - '>>>=' bitwise unsigned right shift and assign
 
-### Ternary Operator
+## Ternary Operator
 Used as shorthand for if-else statement
 - '? :' operator (boolean expression ? value if true : value if false)
 
-### Unary Operator
+## Unary Operator
 Perform operations on a single operand
 - '+' unary plus operator, indicates positive value
 - '-' unary minus operator, indicates negative value
@@ -45,5 +45,5 @@ Perform operations on a single operand
 - '--' decrement operator
 - '!' logical complement operator
 
-### Strings
+## Strings
 The '+' operator is an arithmetic operator for addition but in the context of strings, it is used for string concatenation.

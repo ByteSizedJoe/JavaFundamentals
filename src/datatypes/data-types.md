@@ -1,4 +1,4 @@
-## Data Types
+# Data Types
 Java is statically typed which means all variables must have a declared type at compile-time. Statically typed languages like Java include C++, Rust, C#. Dynamically typed languages such as JavaScript, Python, and Ruby check the type at run-time instead of compile-time and the type of a variable could change at any time.
 
 ## Java has two types of data:

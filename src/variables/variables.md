@@ -1,4 +1,4 @@
-## Variables
+# Variables
 Variables are locations in memory in which we can store data. Each variable has a data type that determines what kind of data it can store, how much space it takes up in memory, and what operations can be performed on it.
 
 ## Java has three main types of Variables:
